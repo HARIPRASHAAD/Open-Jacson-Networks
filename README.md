@@ -17,11 +17,14 @@ Visual components and Python
 
 
 ## Experiment:
+![image](https://github.com/HARIPRASHAAD/Open-Jacson-Networks/assets/144268297/89c47686-871d-40ee-9402-740f323bac98)
 
 
 ## Program
+![image](https://github.com/HARIPRASHAAD/Open-Jacson-Networks/assets/144268297/dff94d87-6941-4e33-8a0a-5d71bddfe661)
 
 
 ## Output
+![image](https://github.com/HARIPRASHAAD/Open-Jacson-Networks/assets/144268297/67ba7392-c871-48bd-a1c8-b106fecec70f)
 
 ## Result
